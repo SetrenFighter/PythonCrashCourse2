@@ -1,1 +1,1 @@
-# PythonCrashCourse2
+# Mastering Python
